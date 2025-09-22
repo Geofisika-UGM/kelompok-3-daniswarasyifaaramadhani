@@ -11,3 +11,4 @@ Striving to bridge geoscience and the digital world 🌐🔬
 Let’s collaborate and create impactful projects! 🤝
 
 # Tugas 3 
+![alt text](https://github.com/daniswarasyifaaramadhani/MetKom-Week-3/blob/main/Screenshot%202025-09-22%20145901.png?raw=true)
